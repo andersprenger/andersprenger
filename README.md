@@ -2,7 +2,7 @@
 
 My name is Anderson Sprenger, I study 💻 Computer Science and work with 🍎 iOS Development.
 
-I ❤ technology, as well the _⭐possibilities⭐_ that they bring.
+I ❤ technology, as well the _⭐possibilities⭐_ that it brings.
 
 I'm very interested into `🔍 research` to create new solutions, and also in `📱 mobile development` to make it present in our 🌞 lifes.
 
