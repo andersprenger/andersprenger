@@ -8,4 +8,6 @@ I'm very interested into `🔍 research` to create new solutions, and also in `�
 
 As hobby, I ❤ gaming, anime, manga & light lovels.
 
-<img src="https://github-readme-stats.vercel.app/api?username=andersprenger&show_icons=true&theme=chartreuse-dark"/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=andersprenger&show_icons=true&theme=dark"/>
