@@ -1,6 +1,6 @@
 ### Hello there 😃
 
-My name is Anderson Sprenger, I study Computer Science and work with iOS Development.
+My name is Anderson Sprenger, I study 💻 Computer Science and work with 🍎 iOS Development.
 
 I ❤ `computers and technology`, as well the _⭐possibilities⭐_ that it brings.
 
