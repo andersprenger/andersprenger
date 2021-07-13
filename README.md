@@ -4,7 +4,7 @@ My name is Anderson Sprenger, I study 💻 Computer Science and work with 🍎 i
 
 I ❤ technology, as well the _⭐possibilities⭐_ that it brings.
 
-I'm very interested into `🔍 research` to create new solutions, and also in `📱 mobile development` to make it present in our 🌞 lifes.
+I'm very interested into `🔍 research` to create new solutions, and also in `📱 mobile development` to make it _applied_ in our 🌞 lifes.
 
 As hobby, I ❤ gamming, anime, manga & light lovels.
 
