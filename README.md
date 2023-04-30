@@ -14,7 +14,7 @@ Welcome to my GitHub profile!😃 My name is Anderson Sprenger, and I am passion
 * Assembly
 * Asyncronous Programming
 
-## 🤝❤ I’m looking to collaborate on
+## 🤝 I’m looking to collaborate on
 
 * Smartphone App Startups 
 * Human–computer interaction Research
