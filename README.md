@@ -1,12 +1,33 @@
-### Hello there 😃
+# Hello there 👋
 
-My name is Anderson Sprenger, I study 💻 Computer Science and work with 🍎 iOS Development.
+Welcome to my GitHub profile!😃 My name is Anderson Sprenger, and I am passionate about 🍎 iOS Development and 🤖🧑‍💻 Human–computer interaction. Here you will find some of the projects I have been working on.
 
-I ❤ technology, as well the _⭐possibilities⭐_ that it brings.
+## 🔭 I’m currently working on
 
-I'm very interested into `🔍 research` to create new solutions, and also in `📱 mobile development` to make it _applied_ in our 🌞 lifes.
+* [Voyage: Travel Planner](https://apps.apple.com/ua/app/voyage-plan/id1629997994)
+* [Code Bird](https://apps.apple.com/ua/app/codebird/id1582685085)
+* [Tweet Utils UI](https://github.com/DAVINTLAB/Tweet-Utils-UI)
 
-As hobby, I ❤ gaming, anime, manga & light lovels.
+## 🌱 I’m currently learning
+
+* Haskell
+* Assembly
+* Asyncronous Programming
+
+## 👯 I’m looking to collaborate on
+
+* Smartphone App Startups 
+* Human–computer interaction Research
+
+## 📫 How to reach me
+
+* [LinkedIn](https://www.linkedin.com/in/andersonsprenger/)
+* [Instagram](https://instagram.com/andersprenger/)
+* [Email](andersonsprenger@outlook.com)
+
+## ⚡ Fun fact
+
+I ❤️ cars, anime and games! If you play Overwatch in PC add me `knight#15883` and let's play toghether!
 
 <br/>
 
