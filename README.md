@@ -23,7 +23,7 @@ Welcome to my GitHub profile!😃 My name is Anderson Sprenger, and I am passion
 
 * [LinkedIn](https://www.linkedin.com/in/andersonsprenger/)
 * [Instagram](https://instagram.com/andersprenger/)
-* [Email](andersonsprenger@outlook.com)
+* [Email](mailto:andersonsprenger@outlook.com)
 
 ## ⚡ Fun fact
 
