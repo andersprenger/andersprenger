@@ -10,14 +10,13 @@ Welcome to my GitHub profile!😃 My name is Anderson Sprenger, and I am passion
 
 ## 🌱 I’m currently learning
 
-* Haskell
-* Assembly
-* Asyncronous Programming
+* Machine Learning
+* Asynchronous Programming
 
 ## 🤝 I’m looking to collaborate on
 
 * Smartphone App Startups 
-* Human–Computer Interaction Research
+* Human-Computer Interaction Research
 
 ## 📫 How to reach me
 
@@ -27,7 +26,7 @@ Welcome to my GitHub profile!😃 My name is Anderson Sprenger, and I am passion
 
 ## ⚡ Fun fact
 
-I ❤️ cars, anime and games! If you play Overwatch in PC add me `knight#15883` and let's play toghether!
+I ❤️ cars, anime, and games! If you play Overwatch on PC add me `knight#15883` and let's play together!
 
 <br/>
 
