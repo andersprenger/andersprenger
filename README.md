@@ -15,7 +15,7 @@ Welcome to my GitHub profile!😃 My name is Anderson Sprenger, and I am passion
 
 ## 🤝 I’m looking to collaborate on
 
-* Smartphone App Startups 
+* Mobile App Startups 
 * Human-Computer Interaction Research
 
 ## 📫 How to reach me
